@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\DivisionToTwoThreeAndFour\DivisionToTwoThreeAndFour\bin\Debug\net8.0\DivisionToTwoThreeAndFour.exe
+C:\Users\ninag\RiderProjects\DivisionToTwoThreeAndFour\DivisionToTwoThreeAndFour\bin\Debug\net8.0\DivisionToTwoThreeAndFour.deps.json
+C:\Users\ninag\RiderProjects\DivisionToTwoThreeAndFour\DivisionToTwoThreeAndFour\bin\Debug\net8.0\DivisionToTwoThreeAndFour.runtimeconfig.json
+C:\Users\ninag\RiderProjects\DivisionToTwoThreeAndFour\DivisionToTwoThreeAndFour\bin\Debug\net8.0\DivisionToTwoThreeAndFour.dll
+C:\Users\ninag\RiderProjects\DivisionToTwoThreeAndFour\DivisionToTwoThreeAndFour\bin\Debug\net8.0\DivisionToTwoThreeAndFour.pdb
+C:\Users\ninag\RiderProjects\DivisionToTwoThreeAndFour\DivisionToTwoThreeAndFour\obj\Debug\net8.0\DivisionToTwoThreeAndFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\DivisionToTwoThreeAndFour\DivisionToTwoThreeAndFour\obj\Debug\net8.0\DivisionToTwoThreeAndFour.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\DivisionToTwoThreeAndFour\DivisionToTwoThreeAndFour\obj\Debug\net8.0\DivisionToTwoThreeAndFour.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\DivisionToTwoThreeAndFour\DivisionToTwoThreeAndFour\obj\Debug\net8.0\DivisionToTwoThreeAndFour.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\DivisionToTwoThreeAndFour\DivisionToTwoThreeAndFour\obj\Debug\net8.0\DivisionToTwoThreeAndFour.dll
+C:\Users\ninag\RiderProjects\DivisionToTwoThreeAndFour\DivisionToTwoThreeAndFour\obj\Debug\net8.0\refint\DivisionToTwoThreeAndFour.dll
+C:\Users\ninag\RiderProjects\DivisionToTwoThreeAndFour\DivisionToTwoThreeAndFour\obj\Debug\net8.0\DivisionToTwoThreeAndFour.pdb
+C:\Users\ninag\RiderProjects\DivisionToTwoThreeAndFour\DivisionToTwoThreeAndFour\obj\Debug\net8.0\DivisionToTwoThreeAndFour.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\DivisionToTwoThreeAndFour\DivisionToTwoThreeAndFour\obj\Debug\net8.0\ref\DivisionToTwoThreeAndFour.dll
